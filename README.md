@@ -1,6 +1,6 @@
 # Projets de NLP
-Analyse des Avis
-[Mental_health-conversations](https://github.com/Soilah98/NLP/tree/main/Mental_health-conversations)
+- [Analyse des Avis](https://github.com/Soilah98/NLP/tree/main/Extraction_Clustering_NLP_review)
+- [Mental_health-conversations](https://github.com/Soilah98/NLP/tree/main/Mental_health-conversations)
 
 ###  Objectifs des Projets
 - Nettoyage et prétraitement du texte

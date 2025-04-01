@@ -1,6 +1,6 @@
 # Projets de NLP
-- [Analyse des Avis](https://github.com/Soilah98/NLP/tree/main/Extraction_Clustering_NLP_review)
-- [Mental_health-conversations](https://github.com/Soilah98/NLP/tree/main/Mental_health-conversations)
+- [Analyse des Avis](https://github.com/Soilah98/NLP/tree/main/Extraction_Clustering_NLP_review) 
+- [Mental_health-conversations](https://github.com/Soilah98/NLP/tree/main/Mental_health-conversations) -> [Lire le projet dans google colab](https://colab.research.google.com/drive/1Y651aMVIbnd4XFeeBd9FhBVXDaLrdS_i?usp=sharing)
 
 ###  Objectifs des Projets
 - Nettoyage et prétraitement du texte
@@ -21,7 +21,6 @@
 
 3. Analyse des Sentiments
 - Classification des avis en positif / neutre / négatif
-- Utilisation de **VADER et de TextBlob** pour une analyse basique
 - Modèles plus avancés basés sur **BERT et Transformers**
 
 4. Langage : Python
